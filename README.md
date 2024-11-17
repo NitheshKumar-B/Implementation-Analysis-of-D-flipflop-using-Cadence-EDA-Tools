@@ -101,7 +101,6 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 
 •	Edit for the shape by Create-Shape-Choose required options to edit.
-
 ![Screenshot 2024-10-21 184322](https://github.com/user-attachments/assets/7e57d9c0-ec1c-47ed-a24d-207686f31bda)
 
 
@@ -121,7 +120,6 @@ iv)	Creating the new test cell view
 •	Type: Schematic press OK
 
 •	Follow the step 3(ii)  to make the required connections
-
 ![Screenshot 2024-10-21 185248](https://github.com/user-attachments/assets/7c652d51-59f0-4ca4-b63d-c40ac73c1454)
 
 
@@ -145,17 +143,14 @@ iv)	Creating the new test cell view
 •	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 
 •	Execute Simulation -- Net list and Run
- 
 ![Screenshot 2024-10-21 192323](https://github.com/user-attachments/assets/9a54381d-3da1-461c-910b-d2181612cbee)
 
 
 
-## For Transient Analysis Settings 
+## For Transient Analysis Settings and Output
  
 ![Screenshot 2024-10-21 185609](https://github.com/user-attachments/assets/6d3d5199-bec0-4d64-b9fd-cbf55e6a92c5)
-
- ## Output
- ![Screenshot 2024-10-21 192517](https://github.com/user-attachments/assets/595cee10-081e-49d8-af5c-923645123372)
+![Screenshot 2024-10-21 192517](https://github.com/user-attachments/assets/595cee10-081e-49d8-af5c-923645123372)
 
 
 
